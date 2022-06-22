@@ -1,8 +1,10 @@
 # EC_B3
-*EC Project B3 by Group B02*
+*EC Project B3 by Group B02*   
+[Demo Video Link](https://drive.google.com/file/d/1htMGUIGXOFPxaMN4im0Zt3S2kDB1EOzN/view?usp=sharing) 
 
 ## Sensor Value Display using IoT
-Temperature and humidity sensor attached on an Arduino board, in which their readings are sent through Ethernet to the configured Blynk App on mobile phones.
+- Temperature and humidity sensor attached on an Arduino board, in which their readings are sent through Ethernet to the configured Blynk App on mobile phones.   
+- Additional: LED color RGB control
 
 Below is a screenshot of the sensor value readings displayed in the Blynk App.
 
